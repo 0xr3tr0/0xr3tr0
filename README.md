@@ -42,7 +42,7 @@ I'm just a guy who likes programming... <img src="https://media.giphy.com/media/
 </a></p>
 
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cikuozzo&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cikuozzo" />
 </a></p>
 
 ---
