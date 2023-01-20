@@ -41,6 +41,9 @@ I'm just a guy who likes programming... <img src="https://media.giphy.com/media/
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cikuozzo&show_icons=true&theme=gruvbox" />
 </a></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cikuozzo&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ---
 
 <div align="center">
