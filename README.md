@@ -39,12 +39,8 @@ I'm just a guy who likes programming... <img src="https://media.giphy.com/media/
 
 <a href="https://github.com/Cikuozzo/"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Cikuozzo&bg_color=0e1118&hide_border=true&custom_title=Contribution%20Graph&area=true&area_color=e73737&title_color=e73737&line=e73737&point=e73737&theme=high-contrast" width="800" alt="Cikuozzo-Contribution-graph"></a>
 
----
-
 <a href="https://github.com/Cikuozzo/"><img src="https://github-readme-stats.vercel.app/api?username=Cikuozzo&show_icons=true&count_private=true&include_all_commits=true&theme=gruvbox&title_color=e73737&icon_color=e73737&border_color=0d1017&bg_color=0e1118" width="510" alt="Cikuozzo-stats"></a>
 <a href="https://github.com/Cikuozzo/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cikuozzo&layout=default&langs_count=7&theme=gruvbox&title_color=e73737&icon_color=e73737&border_color=0e1118&bg_color=0e1118" width="310" alt="CikuozzoTopLangs-stats"></a>
-
----
 
 <a href="https://github.com/Cikuozzo/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Cikuozzo&theme=dark&ring=e73737&currStreakNum=ffffff&fire=eaa532&currStreakLabel=eaa532&hide_border=true&background=0E1118" width="540" alt="CikuozzoStreak-stats"></a>
 </div>
