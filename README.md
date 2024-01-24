@@ -12,11 +12,11 @@ I'm just a guy who likes programming... <img src="https://media.giphy.com/media/
 </div>
 
 <div align="center"> 
-- 🔭 i am studying cybersecurity
+ 🔭 i am studying cybersecurity
 </div>
 
 <div align="center">   
--⚡ In my free time I sleep or play videogames
+⚡ In my free time I sleep or play videogames
 </div>
 
 ---
