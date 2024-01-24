@@ -8,14 +8,8 @@
 ### :man_technologist: &nbsp;About Me :
 
 <div align="left">
-I'm just a guy who likes programming... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy.
-</div>
-
-
-<div align="left">
-- 🔭 i am studying cybersecurity.
-</div>
-<div align="left">
+I'm just a guy who likes programming... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy
+- 🔭 i am studying cybersecurity
 - ⚡ In my free time I sleep or play videogames.
 </div>
 
