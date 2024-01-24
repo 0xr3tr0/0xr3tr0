@@ -1,14 +1,7 @@
+---
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges">
-  <p align="center"><a href="https://twitter.com/Cikuozzo">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a></p>
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Cikuozzo&style=flat-square&color=blue" alt=""></p>
-
-</div>
 
 ---
 
@@ -39,7 +32,7 @@ I'm just a guy who likes programming... <img src="https://media.giphy.com/media/
 
 <div align="center">
     <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-    <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
+    <img src="https://forthebadge.com/images/badges/built-by-developers.svg" /> 
     <img src="https://forthebadge.com/images/badges/0-percent-optimized.svg" />
     <img src="https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg" />
     <img src="https://forthebadge.com/images/badges/open-source.svg">
@@ -47,4 +40,4 @@ I'm just a guy who likes programming... <img src="https://media.giphy.com/media/
     <img src="https://forthebadge.com/images/badges/powered-by-black-magic.svg" />
 </div>
 
-
+---
