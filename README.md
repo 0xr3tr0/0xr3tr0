@@ -11,9 +11,11 @@ I'm just a guy who likes programming... <img src="https://media.giphy.com/media/
 
 <div align="left">
 - 🔭 i am studying cybersecurity.
+</div>
+<div align="left">
 - ⚡ In my free time I sleep or play videogames.
-  </div>
-  
+</div>
+
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
