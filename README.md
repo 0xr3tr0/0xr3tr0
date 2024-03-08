@@ -8,7 +8,7 @@
 ### :man_technologist: &nbsp;About Me :
 
 <div align="center">
-I'm just a guy who likes programming... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy
+I'm just a guy who likes programming... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </div>
 
 <div align="center"> 
