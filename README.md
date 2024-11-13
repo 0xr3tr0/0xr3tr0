@@ -37,7 +37,6 @@ I'm just a guy who likes programming... <img src="https://media.giphy.com/media/
     <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
     <img src="https://forthebadge.com/images/badges/0-percent-optimized.svg" />
     <img src="https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg" />
-    <img src="https://forthebadge.com/images/badges/open-source.svg">
     <img src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg">
     <img src="https://forthebadge.com/images/badges/powered-by-black-magic.svg" />
 </div>
